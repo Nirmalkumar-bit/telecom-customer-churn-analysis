@@ -88,10 +88,6 @@ telecom-customer-churn-analysis/
 ├── dashboard.png
 └── insights.pdf (optional)
 ```
-#Dashboard 
-<img width="1754" height="594" alt="image" src="https://github.com/user-attachments/assets/969b745d-22fe-4b73-ba05-9b75a4680f0d" />
-<img width="1754" height="458" alt="image" src="https://github.com/user-attachments/assets/17fff767-59ff-4d81-b4cc-b4c7a0a9f592" />
-<img width="1829" height="426" alt="image" src="https://github.com/user-attachments/assets/3792d62a-330e-42fb-a794-bf6fe065574c" />
 
 
 
