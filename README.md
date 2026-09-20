@@ -23,6 +23,16 @@ The goal is to identify the key factors contributing to customer churn and provi
 - Retained Customers: 5,174
 - Overall Churn Rate: 26.54%
 - Average Monthly Charges: 64.76
+## Dashboard
+
+### Overview Dashboard
+![Dashboard 1](dashboard_1.png)
+
+### Contract & Service Analysis
+![Dashboard 2](dashboard_2.png)
+
+### Customer Demographics Analysis
+![Dashboard 3](dashboard_3.png)
 
 ## SQL Analysis Performed
 
