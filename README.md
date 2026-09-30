@@ -26,13 +26,13 @@ The goal is to identify the key factors contributing to customer churn and provi
 ## Dashboard
 
 ### Overview Dashboard
-![Dashboard 1](dashboard_1.png)
+![Dashboard](images/dashboard_1.png)
 
 ### Contract & Service Analysis
-![Dashboard 2](dashboard_2.png)
+![Dashboard](images/dashboard_2.png)
 
 ### Customer Demographics Analysis
-![Dashboard 3](dashboard_3.png)
+![Dashboard](images/dashboard_3.png)
 
 ## SQL Analysis Performed
 
@@ -79,17 +79,19 @@ The goal is to identify the key factors contributing to customer churn and provi
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 telecom-customer-churn-analysis/
-│
-├── README.md
-├── telecom_analysis.sql
-├── telecom_customer_churn.csv
-├── dashboard_1.png
-├── dashboard_2.png
-└── dashboard_3.png
-```
 
+├── README.md
+├── telecom_customer_churn_analysis.sql
+├── telecom_customer_churn.csv
+└── images/
+    ├── dashboard_1.png
+    ├── dashboard_2.png
+    └── dashboard_3.png
+```
 
 
 ## Author
